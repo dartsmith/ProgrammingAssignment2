@@ -1,3 +1,8 @@
+### Description
+
+This repo contains dartsmith's file for the Programming Assignment 2,
+of R Programming. The task is described below.  
+ 
 ### Introduction
 
 This second programming assignment will require you to write an R
